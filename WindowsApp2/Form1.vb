@@ -6,3 +6,5 @@ End Class
 test line 1
 
 test lin2s
+test line 3
+ test 4
